@@ -1,0 +1,8 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"SensorJarakHY-SRF05.c" LINE:62
+bacaJarak DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"SensorJarakHY-SRF05.c" LINE:44
+printf DSTACK_USAGE:10 DSTACK_LEVEL:10 FILE:"C:\cvavreval\lib\stdio.lib" LINE:1476
+_print DSTACK_USAGE:94 DSTACK_LEVEL:104 FILE:"C:\cvavreval\lib\stdio.lib" LINE:1162
+_ftoe DSTACK_USAGE:16 DSTACK_LEVEL:120 FILE:"C:\cvavreval\lib\stdio.lib" LINE:1098
+floor DSTACK_USAGE:4 DSTACK_LEVEL:124 FILE:"C:\cvavreval\lib\math.lib" LINE:659
+ftrunc DSTACK_USAGE:4 DSTACK_LEVEL:128 FILE:"C:\cvavreval\lib\math.lib" LINE:544
+timer1_ovf_isr DSTACK_USAGE:7 DSTACK_LEVEL:135 FILE:"SensorJarakHY-SRF05.c" LINE:38
